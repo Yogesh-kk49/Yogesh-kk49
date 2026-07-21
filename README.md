@@ -16,7 +16,7 @@
 
 - 🚀 Full Stack Developer with expertise in **React, Django, and FastAPI**, building AI-powered apps, async pipelines, and workflow automation systems
 - 🎓 CS Engineering student at Meenakshi College of Engineering (2022–2026), CGPA 8.1
-- 🤖 Building **AI Engineering Studio** — automated multi-dimensional GitHub repo analysis (quality, security, architecture, dependencies) with async Celery + Redis pipelines and Gemini AI chat
+- 🤖 Building **AI Engineering Studio** - automated multi-dimensional GitHub repo analysis (quality, security, architecture, dependencies) with async Celery + Redis pipelines and Gemini AI chat
 - 🎯 Targeting **Full Stack Developer** and **Applied AI/ML Engineer** roles
 - 📍 Based in Chennai, India
 
@@ -119,10 +119,10 @@ Real-time multiplayer quiz game with live session matching and synchronized game
 <br>
 
 ### <img src="yk-icon.png" width="26" style="vertical-align:middle"/> Certifications
-- Full Stack Java Development with AI — NSIC
+- Full Stack Java Development with AI - NSIC
 - TCS National Qualifier Test (NQT)
-- Full Stack Web Development Bootcamp — Udemy
-- Django Framework — Hewlett Packard Enterprise
+- Full Stack Web Development Bootcamp - Udemy
+- Django Framework - Hewlett Packard Enterprise
 
 <br>
 
