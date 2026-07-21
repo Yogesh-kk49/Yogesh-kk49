@@ -100,8 +100,8 @@ Real-time multiplayer quiz game with live session matching and synchronized game
 ### <img src="yk-icon.png" width="26" style="vertical-align:middle"/> GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yogesh-kk49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-kk49&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yogesh-kk49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yogesh-kk49&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
