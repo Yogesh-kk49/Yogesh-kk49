@@ -15,7 +15,7 @@
 ### <img src="yk-icon.png" width="26" style="vertical-align:middle"/> About Me
 
 - 🚀 Full Stack Developer with expertise in **React, Django, and FastAPI**, building AI-powered apps, async pipelines, and workflow automation systems
-- 🎓 CS Engineering student at Meenakshi College of Engineering (2022–2026), CGPA 8.1
+- 🎓 B.E. in Computer Science Engineering, Meenakshi College of Engineering (2022–2026), CGPA 8.1
 - 🤖 Building **AI Engineering Studio** - automated multi-dimensional GitHub repo analysis (quality, security, architecture, dependencies) with async Celery + Redis pipelines and Gemini AI chat
 - 🎯 Targeting **Full Stack Developer** and **Applied AI/ML Engineer** roles
 - 📍 Based in Chennai, India
